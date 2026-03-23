@@ -38,7 +38,7 @@ This Code of Conduct applies in all project spaces — GitHub Issues, pull reque
 
 ## Enforcement
 
-Instances of unacceptable behaviour may be reported to the project maintainers at [placeholder — add contact email before publishing].
+Instances of unacceptable behaviour may be reported to the project maintainers at 0r1g1nprotocol@proton.me.
 
 All reports will be reviewed promptly and handled confidentially. The maintainers are committed to protecting the identity of reporters.
 
