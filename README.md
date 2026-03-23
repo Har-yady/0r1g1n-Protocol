@@ -67,8 +67,8 @@ This is an early-stage open specification seeking community feedback, contributo
 
 |Document|Description|
 |-|-|
-|[Specification v0.2.0-draft](./specification/SPECIFICATION.md)|Full technical specification — interfaces, schemas, conformance requirements|
-|[Whitepaper v1.1](./whitepaper/WHITEPAPER.md)|Architecture overview, design rationale, threat model|
+|[Specification v0.2.0-draft](./SPECIFICATION.md)|Full technical specification — interfaces, schemas, conformance requirements|
+|[Whitepaper v1.1](./WHITEPAPER.md)|Architecture overview, design rationale, threat model|
 
 \---
 
